@@ -1,6 +1,6 @@
-# On Open Source Governance
+# Open Source Licenses
 
-Presentation made with remark.js
+Presentation on the most popular open source licenses and their differences with one another.
 
 ## License
 
